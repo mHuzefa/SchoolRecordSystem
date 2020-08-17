@@ -1,0 +1,34 @@
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\School Lms.exe.config
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\School Lms.exe
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\School Lms.pdb
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School Lms.csprojAssemblyReference.cache
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Form1.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Properties.Resources.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School Lms.csproj.GenerateResource.cache
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School Lms.exe
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School Lms.pdb
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Form2.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.register.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.deleteData.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.student.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.studentdata.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.updateData.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.search.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\itextsharp.dll
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School Lms.csproj.CopyComplete
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Add_Teacher.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Teacher.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Update_Teacher.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.DeleteTeacher.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.SearchTeacher.resources
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\CsvHelper.dll
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\Dapper.dll
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\CsvHelper.xml
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\Dapper.xml
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Semester 4\DBMS\Lab Assignments\School Lms\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Semester 4\DBMS\Lab Assignments\School Lms\obj\Debug\School_Lms.Teacher_Page.resources
